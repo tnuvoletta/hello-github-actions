@@ -1,1 +1,1 @@
-https://github.com/tnuvoletta/hello-github-actions/pull/2
+sh -c "echo Hello world my name is $INPUT_MY_NAME"
